@@ -1,3 +1,13 @@
+/*
+* File: app.ts
+* Author: Lévai Balázs
+* Copyright: 2024, Lévai Balázs
+* Group: Szoft I/1/N
+* Date: 2024-05-30
+* Github: https://github.com/levaibalazs/
+* Licenc: GNU GPL
+*/
+
 class Ellip{
 
     tengelyAInput?:HTMLInputElement | null
